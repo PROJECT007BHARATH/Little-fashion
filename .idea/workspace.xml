@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0eae621-e1dc-4511-9a29-e72b15001cf7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/demoworkproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/RESULT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credential/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoworkproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/dress02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/dress_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/dress_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/juice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/juice_IoXPrMa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/juice_KdvWzs6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/juice_YZ1xVi8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/pot_02_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/pics/pot_02__9nUEqkY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/tooplate-little-fashion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/css/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/css/tooplate-little-fashion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/cody-lannom-G95AReIh_Ko-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dress 01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dress 03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/dress02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/header/businesspeople-meeting-office-working.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/header/positive-european-woman-has-break-after-work.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/juice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/people/beautiful-woman-face-portrait-brown-background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/people/portrait-british-woman.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/people/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/people/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pim-chu-z6NZ76_UTDI-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pot 01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/pot 02_.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/product/anis-m-WnVrO-DvxcE-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/product/evan-mcdougall-qnh1odlqOmk-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/product/jordan-nix-CkCUvwMXAac-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/product/nature-zen-3Dn1BZZv3m8-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/product/quokkabottles-kFc1_G1GvKA-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/product/team-fredi-8HRKoay8VJE-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/retail-shop-owner-mask-social-distancing-shopping.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/servicescape-incorporated-_48JSlVLX6g-unsplash.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/slideshow/medium-shot-business-women-high-five.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/slideshow/team-meeting-renewable-energy-project.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/slideshow/two-business-partners-working-together-office-computer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/Headroom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jQuery.headroom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/slick.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dAzaidMM8sq6wZjx3Mq63qvbo3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/web designing/day 1"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\demoproject\demofolder\demofolder2\demoworkproject\static\fonts" />
+      <recent name="D:\demoproject\demofolder\demofolder2\demoworkproject\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0eae621-e1dc-4511-9a29-e72b15001cf7" name="Changes" comment="" />
+      <created>1709465735793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709465735793</updated>
+    </task>
+    <servers />
+  </component>
+</project>
